@@ -1,6 +1,6 @@
 {
   "name":"shaheena-cli-number-guessing",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is cli based numbers guessing game",
   "main": "index.js",
   "type": "module",
